@@ -7,24 +7,36 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Allan&display=swap"
-      rel="stylesheet"
-    />
-    <link
       rel="shortcut icon"
       href="./layout/icon-favicon.png"
       type="image/x-icon"
     />
     <link rel="stylesheet" href="./css/style.css" />
-    <script src="./js/app.js"></script>
   </head>
   <body>
     <div class="container">
       <div class="content">
-        <h1>To do list</h1>
-        <p>Organize your tasks efficiently.</p>
-        <div class="tarefas"></div>
+        <h2>Gerenciador de tarefas 📝</h2>
+        <div class="input-wrapper">
+          <input
+            type="text"
+            name="tarefa"
+            id="tarefa"
+            placeholder="Add your task"
+          />
+          <button onclick="adicionarTarefa()">Add</button>
+        </div>
+        <div class="tarefas">
+          <ul id="container-list">
+            <!--
+              <li class="checked">Tarefa 1</li>
+              <li>Tarefa 2</li>
+              <li>Tarefa 3</li>
+               -->
+          </ul>
+        </div>
       </div>
     </div>
   </body>
+  <script src="./js/app.js"></script>
 </html>
