@@ -1,5 +1,11 @@
-# To-do-list
-<b>A sua Lista de Tarefas é uma ferramenta essencial para organizar suas atividades diárias e garantir que você permaneça focado em suas metas.</b>
+<div align="center">
+
+   <img width="212" height="212" alt="image" src="https://github.com/user-attachments/assets/a25b1caa-6a31-4839-935c-a051a4bfc3d2" />
+
+   # To-do-list
+   <b>A sua Lista de Tarefas é uma ferramenta essencial para organizar suas atividades <br> diárias e garantir que você permaneça focado em suas metas.</b>
+   
+</div>
 
 # Tecnologias Utilizadas
  * Linguagem de Programação: [HTML, CSS, JavaScript.]
@@ -49,3 +55,16 @@ body {
     color: #9C9EA0;
 }
 ```
+# Estrutura de pasta
+
+app/ <br>
+├── css/ <br>
+│   └── style.css <br>
+├── js/ <br>
+│   └── app.js <br>
+├── layout/ <br>
+│   └── images/ <br>
+│       ├── checked.png <br> 
+│       ├── unchecked.png <br>
+│       └── icon-favicon.png <br>
+└── index.html
