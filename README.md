@@ -11,3 +11,41 @@
  * Hospedagem: [Github pages]
    
    ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+ * Raycast: [uma interface rápida e extensível para executar comandos, buscar arquivos, abrir aplicativos e automatizar tarefas]
+
+   <img width="114" height="28" alt="image" src="https://github.com/user-attachments/assets/5209442d-45fb-4bee-a35c-83b8ee996cd2" />
+
+# Desing colors
+<img width="185" height="165" alt="image" src="https://github.com/user-attachments/assets/95e9a6e8-aa10-43e6-bfa9-9069155ddd74" />
+<img width="185" height="165" alt="image" src="https://github.com/user-attachments/assets/e7fd2381-33a5-4e07-875b-f49e8884f2d7" />
+<img width="185" height="165" alt="image" src="https://github.com/user-attachments/assets/26d82778-1bba-424e-b893-1dc357a46a67" />
+<img width="185" height="165" alt="image" src="https://github.com/user-attachments/assets/1bc8b919-5f4a-4247-be0e-f96b67c9d225" />
+<img width="185" height="165" alt="image" src="https://github.com/user-attachments/assets/82be0cc7-bb2b-4dbe-93a1-51501a889ce3" />
+
+```css
+/*    #css -> border    */
+.input-wrapper input {
+    border: 1px solid #ccc;
+}
+
+/*    #ff0202 -> color span:hover    */
+ul li span:hover {
+    color: #ff0202;
+}
+
+/*    #333 -> color text    */
+body {
+    color: #333;
+}
+
+/*    #08265c -> color text h2   */
+.content h2 {
+    color: #08265c;
+}
+
+/*    #9C9EA0 -> input placeholder color   */
+.input-wrapper input::placeholder {
+    color: #9C9EA0;
+}
+```
