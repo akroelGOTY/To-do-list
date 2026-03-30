@@ -68,3 +68,8 @@ app/ <br>
 │       ├── unchecked.png <br>
 │       └── icon-favicon.png <br>
 └── index.html
+
+# previem
+
+<img width="578" height="345" alt="image" src="https://github.com/user-attachments/assets/163e7c36-0718-4c54-8a4f-f775080d12c8" />
+
